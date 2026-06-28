@@ -25,13 +25,12 @@ My passion is building software that saves people time, solves meaningful proble
 
 ## 🚀 Areas of Focus
 
-* 💼 Finance Automation
-* 🐍 Python Applications
-* 🗄️ SQL & Data Processing
-* 📊 Financial Reporting Systems
-* 🖥️ Desktop Applications
-* ⚙️ Workflow Automation
-* 🎮 Simulation & Management Games
+| Professional | Creative |
+|--------------|----------|
+| 💼 Finance Automation | 🎮 Simulation Games |
+| 📊 Financial Reporting | 🕹️ Game Development |
+| ⚙️ Workflow Automation | 🧠 Systems Design |
+| 🖥️ Desktop Applications | 🎲 Economy Design |
 
 ---
 
