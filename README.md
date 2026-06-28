@@ -54,8 +54,8 @@ My passion is building software that saves people time, solves meaningful proble
 |--------|-----------|
 | ✅ | Professional Portfolio |
 | 🔄 | Google Data Analytics Professional Certificate |
-| ⏳ | Google UX Design Professional Certificate |
 | ⏳ | Software Engineering |
+| ⏳ | Google UX Design Professional Certificate |
 | ⏳ | Artificial Intelligence |
 | ⏳ | Game Development |
 
