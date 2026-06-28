@@ -23,7 +23,7 @@ My passion is building software that saves people time, solves meaningful proble
   <img src="https://img.shields.io/badge/Game%20Development-EA4C89?style=for-the-badge" />
 </p>
 
-## 🚀 What I Build
+## 🚀 Areas of Focus
 
 * 💼 Finance Automation
 * 🐍 Python Applications
