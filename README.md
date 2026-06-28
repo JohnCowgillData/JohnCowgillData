@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/profile-banner.png" alt="John Cowgill Banner" width="100%">
+</p>
+
 # Hi, I'm John Cowgill 👋
 
 ## Software Engineering • Finance Automation • Product Building
