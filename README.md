@@ -141,6 +141,18 @@ Every project I build should answer **YES** to these five questions:
 
 ---
 
+## Project Phoenix
+
+My long-term goal is to become a Product Builder by combining
+
+• Software Engineering
+• Finance Expertise
+• UX/UI Design
+• AI
+• Game Development
+
+To build software that saves people time, solves meaningful problems, and occasionally brings people joy.
+
 ## 📫 Let's Connect
 
 I'm always interested in discussing:
