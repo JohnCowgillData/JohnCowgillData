@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/profile-banner.png" alt="John Cowgill Banner" width="100%">
+  <img src="images/profile-banner-v2.png" alt="John Cowgill Banner" width="100%">
 </p>
 
 # Hi, I'm John Cowgill 👋
