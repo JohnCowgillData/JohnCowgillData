@@ -10,6 +10,18 @@ My passion is building software that saves people time, solves meaningful proble
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-00599C?style=for-the-badge)
+![Finance](https://img.shields.io/badge/Finance-0A7E07?style=for-the-badge)
+![UX/UI](https://img.shields.io/badge/UX%20%2F%20UI-8A2BE2?style=for-the-badge)
+
+---
+
 ## 🚀 What I Build
 
 * 💼 Finance Automation
