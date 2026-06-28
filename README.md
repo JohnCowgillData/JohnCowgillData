@@ -46,14 +46,16 @@ My passion is building software that saves people time, solves meaningful proble
 * Workflow Automation
 * Financial Reporting
 
-### Currently Learning
+---
 
-* Google Data Analytics
-* AI & AI-Assisted Development
-* Software Engineering
-* UX / UI Design
-* Game Development
-* Cloud Technologies
+## Learning Journey
+
+✅ Professional Portfolio
+🔄 Google Data Analytics
+⏳ Google UX Design
+⏳ Software Engineering
+⏳ AI
+⏳ Game Development
 
 ---
 
@@ -133,7 +135,6 @@ Every project I build should answer **YES** to these five questions:
 ## 🧪 Currently Building
 
 * Professional Finance Automation Portfolio
-* Cinderwell Labs
 * Software Engineering Skills
 * Game Development Skills
 * Simulation Game Prototypes
