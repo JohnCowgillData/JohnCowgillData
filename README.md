@@ -4,7 +4,7 @@
 
 # Hi, I'm John Cowgill 👋
 
-## Software Engineering • Finance Automation • Product Building
+## Software Engineer • Product Builder • Systems Designer
 
 I spent **17 years in accounting** designing and building automation solutions that eliminated repetitive manual work, standardized financial processes, and improved reporting efficiency.
 
