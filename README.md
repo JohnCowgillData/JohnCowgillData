@@ -22,7 +22,6 @@ My passion is building software that saves people time, solves meaningful proble
   <img src="https://img.shields.io/badge/Product%20Builder-6F42C1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Game%20Development-EA4C89?style=for-the-badge" />
 </p>
----
 
 ## 🚀 What I Build
 
