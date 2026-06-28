@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm John Cowgill 👋
 
-<!--
-**JohnCowgillData/JohnCowgillData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance Automation | Python | SQL | Workflow Automation | Product Builder
 
-Here are some ideas to get you started:
+I spent 17 years in accounting designing and building automation solutions that eliminated repetitive manual work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Today I'm expanding those skills into software engineering, UX, AI, and product development while building finance automation tools and simulation games.
+
+Core Skills
+Python
+SQL
+Microsoft Excel
+Finance Automation
+Workflow Design
+Financial Reporting
+Process Improvement
+Featured Projects
+
+📄 Automated Invoice Processing
+
+💰 Automated Payroll Reporting
+
+📊 Automated Financial Reporting
+
+Currently Learning
+Google Data Analytics
+AI
+UX Design
+Software Engineering
+Game Development
