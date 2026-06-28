@@ -141,13 +141,15 @@ Every project I build should answer **YES** to these five questions:
 
 ---
 
-Every project I build should answer YES to these:
+## 🎯 Guiding Principles
 
-✔ Does it solve a real problem?
-✔ Is it technically well engineered?
-✔ Is it intuitive enough that someone can use it without a manual?
-✔ Does it look polished and trustworthy?
-✔ Would I be proud to put my name on it?
+Every project I build should answer **YES** to these questions:
+
+- ✅ Does it solve a real problem?
+- ✅ Is it technically well engineered?
+- ✅ Is it intuitive enough that someone can use it without a manual?
+- ✅ Does it look polished and trustworthy?
+- ✅ Would I be proud to put my name on it?
 
 ---
 
