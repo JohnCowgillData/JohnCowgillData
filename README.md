@@ -141,15 +141,17 @@ Every project I build should answer **YES** to these five questions:
 
 ---
 
-## 🎯 Guiding Principles
+## 🎯 The Project Phoenix Standard
 
-Every project I build should answer **YES** to these questions:
+Before I consider a project complete, it should answer **YES** to all five questions.
 
-- ✅ Does it solve a real problem?
-- ✅ Is it technically well engineered?
-- ✅ Is it intuitive enough that someone can use it without a manual?
-- ✅ Does it look polished and trustworthy?
-- ✅ Would I be proud to put my name on it?
+| ✔ | Question |
+|---|----------|
+| ✅ | Does it solve a real problem? |
+| ✅ | Is it technically well engineered? |
+| ✅ | Is it intuitive enough that someone can use it without a manual? |
+| ✅ | Does it look polished and trustworthy? |
+| ✅ | Would I be proud to put my name on it? |
 
 ---
 
