@@ -48,14 +48,16 @@ My passion is building software that saves people time, solves meaningful proble
 
 ---
 
-## Learning Journey
+## 🗺️ Learning Journey
 
-✅ Professional Portfolio
-🔄 Google Data Analytics
-⏳ Google UX Design
-⏳ Software Engineering
-⏳ AI
-⏳ Game Development
+| Status | Milestone |
+|--------|-----------|
+| ✅ | Professional Portfolio |
+| 🔄 | Google Data Analytics Professional Certificate |
+| ⏳ | Google UX Design Professional Certificate |
+| ⏳ | Software Engineering |
+| ⏳ | Artificial Intelligence |
+| ⏳ | Game Development |
 
 ---
 
