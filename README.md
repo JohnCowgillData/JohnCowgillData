@@ -49,8 +49,6 @@ My passion is building software that saves people time, solves meaningful proble
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnCowgillData&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnCowgillData&layout=compact&theme=transparent)
-
 ---
 
 ## ⭐ Featured Projects
