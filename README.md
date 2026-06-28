@@ -48,33 +48,16 @@ My passion is building software that saves people time, solves meaningful proble
 
 ---
 
-## 🔥 Project Phoenix Roadmap
+## 🗺️ Learning Journey
 
-Professional Portfolio  ✅
-
-        ↓
-
-Google Data Analytics  🔄
-
-        ↓
-
-Google UX Design  ⏳
-
-        ↓
-
-Software Engineering  ⏳
-
-        ↓
-
-Artificial Intelligence  ⏳
-
-        ↓
-
-Game Development  ⏳
-
-        ↓
-
-Build Great Products 🚀
+| Status | Milestone |
+|--------|-----------|
+| ✅ | Professional Portfolio |
+| 🔄 | Google Data Analytics Professional Certificate |
+| ⏳ | Google UX Design Professional Certificate |
+| ⏳ | Software Engineering |
+| ⏳ | Artificial Intelligence |
+| ⏳ | Game Development |
 
 ---
 
